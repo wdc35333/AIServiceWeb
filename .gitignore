@@ -1,1 +1,4 @@
 .DS_Store
+static/model/*.h5
+static/model/*.pkl
+static/img/*.png
